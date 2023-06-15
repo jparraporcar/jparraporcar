@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordi Parra Porcar</h1>
 
-- 💬 Ask me about **React, Node, Serverless, Crypto, Technical analysis...**
+- 💬 Ask me about **React, Node, Serverless, Python, Crypto, Technical analysis...**
 
 - 📫 How to reach me **jordiparraporcar@gmail.com**
 
