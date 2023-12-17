@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordi Parra Porcar</h1>
 
-- 💬 Ask me about **React, Node, Serverless, Python and anything else you want! (I'll do my best to answer :smile:)!**
+- 💬 Ask me about **React, Nuxt, Node, Python, AWS and anything else you want! (I'll do my best to answer :smile:)!**
 
 - 📫 How to reach me **jordiparraporcar@gmail.com**
 
